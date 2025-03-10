@@ -1,0 +1,4 @@
+echo 'linting'
+npx lint-staged
+
+# exit 1
